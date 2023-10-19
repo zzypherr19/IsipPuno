@@ -8,8 +8,8 @@
   }
 
   .slider_bg_box img {
-    width: 85vh;
-    height: 50vh;
+    width: 81vh;
+    height: 52vh;
     /* Set the width of the image */
     float: right;
     /* Float the image to the right */
