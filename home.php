@@ -32,6 +32,7 @@
   }
 
   .slider_section {
+    margin:20px;
     height: 50vh;
     
   }
@@ -224,9 +225,9 @@
       <div class="carousel-item active">
         <div class="container">
           <div class="row">
-            <div class="col-md-12 col-lg-7"> <!-- Adjust the column size for responsiveness -->
+            <div class="col-md-12 col-lg-9"> <!-- Adjust the column size for responsiveness -->
               <div class="detail-box">
-                <p>Welcome to Mindfull</p>
+                <p>Welcome to Mindfull!</p>
                 <h1>
                   <span>
                     Happy To
